@@ -6,6 +6,7 @@ var numbers;
 console.log('Hello World')
 
 
+
 /*
 Exercise #2
 Using the loop provided for you below, use the array push method to insert the numbers 1 to 10 into the array.
